@@ -2514,7 +2514,7 @@
                   <img
                     id="signin-with-google"
                     class="signin-with-google"
-                    src="./public/assets/images/google.png"
+                    src="./assets/images/google.png"
                     alt=""
                   />
                 `,document.getElementById("signin-with-google").addEventListener("click",async()=>{ke.innerHTML="Loading...",await oh(),st()}))})};st();
